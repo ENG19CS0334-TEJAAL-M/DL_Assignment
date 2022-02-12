@@ -1,2 +1,2 @@
-# DL_Assignment
-I would like to add my assignment works given during my curriculum in this repository
+# DEEP-LEARNING-PROGRAMS
+In this particular repository ,I have attached few of my machine learning and deep learning programs. Thank You.
